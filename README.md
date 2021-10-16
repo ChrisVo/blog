@@ -1,4 +1,4 @@
-# My blog's source code
+# My blog's source code ✍️
 
 [You can check out my blog here](https://blog.chrisvo.systems)
 
