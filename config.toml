@@ -2,3 +2,22 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'notes from chris'
 theme = 'cactus'
+
+[params]
+colortheme = 'white'
+copyright = "Chris Vo"
+rss = true
+tagsOverview = true
+description = "devops engineer from southern california"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
