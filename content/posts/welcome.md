@@ -4,7 +4,7 @@ date: 2021-10-15T18:17:59-07:00
 draft: false
 ---
 
-Hi!
+# Hi!
 
 My name is Chris. I’m a software developer from Southern California. Currently, I work for an electric vehicle company doing DevOps stuff.
 
