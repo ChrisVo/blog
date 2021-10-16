@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://blog.chrisvo.cloud/'
 languageCode = 'en-us'
 title = 'notes from chris'
 theme = 'cactus'
